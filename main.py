@@ -1,5 +1,5 @@
 from Screen import Screen
-from Graph import Graph
+import numpy as np
 
 screen = Screen(800, 600)
 screen.display()
